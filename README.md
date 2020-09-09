@@ -1,6 +1,6 @@
 ### Hi there 👋
 * 🔭 Experience on Android application development.
-* I’m currently doing competitive programming regularly to improve problem sloving skills with PYTHON and C\
+* I’m currently doing competitive programming regularly to improve problem sloving skills with PYTHON and C++\
     Practice and Contest website: Codeforce Leetcode Hackerrank
 * How to reach me: michael90781@gmail.com<br/>
 
