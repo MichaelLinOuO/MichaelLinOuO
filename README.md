@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 🔭 Experience on Android application development.
+* 🔭 Experience on Android app development, Full stack web app development.
 * I’m currently doing competitive programming regularly to improve problem sloving skills with PYTHON and C++\
     Practice and Contest website: Codeforce Leetcode Hackerrank GoogleKickStart Atcoder
 * How to reach me: michael90781@gmail.com<br/>
