@@ -1,7 +1,9 @@
 ### Hi there 👋
-🌱 I’m currently doing competitive programming regularly to improve problem sloving skills with PYTHON and C++.
-🔭 Practice and contest website: Codeforce Leetcode Hackerrank
-📫 How to reach me: michael90781@gmail.com
+* 🔭 Experience on Android application development.
+* I’m currently doing competitive programming regularly to improve problem sloving skills with PYTHON and C\
+    Practice and Contest website: Codeforce Leetcode Hackerrank
+* How to reach me: michael90781@gmail.com<br/>
+
 
 <!--
 **MichaelLinOuO/MichaelLinOuO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
